@@ -383,3 +383,10 @@ connector: <aiohttp.connector.TCPConnector object at 0x0000021D9A8A9250>
 2026-01-14 14:58:34,890 DEBUG __main__ - Updated ETHUSDT with 60 closed candles; last close_time=1768382879999
 2026-01-14 14:58:34,891 DEBUG __main__ - State ETHUSDT: close=3331.7200 ema50=3330.2959 st=3329.4530 dir=-1 atr=1.2479
 2026-01-14 14:58:34,893 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for ETHUSDT
+2026-01-14 14:59:05,104 DEBUG __main__ - Updated BTCUSDT with 60 closed candles; last close_time=1768382879999
+2026-01-14 14:59:05,105 DEBUG __main__ - State BTCUSDT: close=95057.3000 ema50=95024.1899 st=94735.9693 dir=-1 atr=52.2502
+2026-01-14 14:59:05,106 DEBUG src.strategy.router - Strategy Breakout_Retest no signal for BTCUSDT
+2026-01-14 14:59:05,107 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for BTCUSDT
+2026-01-14 14:59:05,251 DEBUG __main__ - Updated ETHUSDT with 60 closed candles; last close_time=1768382939999
+2026-01-14 14:59:05,251 DEBUG __main__ - State ETHUSDT: close=3330.3300 ema50=3330.2973 st=3329.4530 dir=-1 atr=1.3891
+2026-01-14 14:59:05,252 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for ETHUSDT
