@@ -1,0 +1,3 @@
+symbol,enabled,leverage,qty_mode,qty_value,ema_period,supertrend_period,supertrend_multiplier,trailing_mode,trailing_atr_mult,trailing_pct,use_strategy_a,use_strategy_b,breakout_mode,range_window,max_range_width_pct,retest_max_bars
+BTCUSDT,1,5,fixed,50,50,10,3.0,ATR,2.0,0.01,1,1,standalone,120,0.006,30
+ETHUSDT,1,5,fixed,50,50,10,3.0,ATR,2.0,0.01,1,0,standalone,120,0.006,30

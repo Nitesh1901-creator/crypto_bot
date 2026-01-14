@@ -1,0 +1,20 @@
+exchange: binance
+mode: testnet
+confirm_live: false
+api_key: "NTrrEKYsQ8ANCOY5AFgqxdUPWTWbrLt2ntU1lWdvO0NTE083L4eJ3CgDWC8TERQb"
+api_secret: "mWKLKqzlkMaCCEQjhvormFWAOhGrufbAFQ1YMA7vY9rRbWacTFLkLGqlasSN1I1y"
+hedge_mode: true
+poll_interval_seconds: 30
+kline_refresh_seconds: 30
+universe_kline_lookback: 1200
+pnl:
+  slippage_mode: estimated
+  slippage_bps: 0.015
+risk:
+  max_open_positions: 3
+  max_daily_loss_usdt: 100
+  max_leverage: 10
+  cooldown_minutes_after_loss: 30
+  min_order_notional_usdt: 5.5
+data_dir: data
+watchlist_path: watchlist.csv

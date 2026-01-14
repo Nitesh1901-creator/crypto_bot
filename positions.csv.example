@@ -1,0 +1,1 @@
+position_id,symbol,side,qty,entry_time_utc,entry_price,exit_time_utc,exit_price,status,strategy,stop_loss,trailing_stop,trailing_mode,total_fees_usdt,total_slippage_usdt,realized_gross_pnl_usdt,realized_net_pnl_usdt,entry_notional_usdt,exit_notional_usdt,avg_notional_usdt,gross_return_pct,net_return_pct,exit_reason,last_update_utc

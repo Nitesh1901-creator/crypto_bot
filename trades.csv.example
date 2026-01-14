@@ -1,0 +1,1 @@
+trade_id,timestamp_utc,exchange,symbol,side,position_side,qty,price,notional_usdt,fee,fee_asset,fee_usdt,order_id,client_id,reason,expected_price,slippage_usdt
