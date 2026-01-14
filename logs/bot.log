@@ -355,3 +355,31 @@ connector: <aiohttp.connector.TCPConnector object at 0x0000021D9A8A9250>
 2026-01-14 14:56:33,512 DEBUG __main__ - Updated ETHUSDT with 60 closed candles; last close_time=1768382759999
 2026-01-14 14:56:33,512 DEBUG __main__ - State ETHUSDT: close=3331.7100 ema50=3330.1663 st=3329.4530 dir=-1 atr=1.3038
 2026-01-14 14:56:33,514 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for ETHUSDT
+2026-01-14 14:57:03,700 DEBUG __main__ - Updated BTCUSDT with 60 closed candles; last close_time=1768382759999
+2026-01-14 14:57:03,702 DEBUG __main__ - State BTCUSDT: close=95123.9000 ema50=95018.3665 st=94735.9693 dir=-1 atr=44.9534
+2026-01-14 14:57:03,703 DEBUG src.strategy.router - Strategy Breakout_Retest no signal for BTCUSDT
+2026-01-14 14:57:03,704 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for BTCUSDT
+2026-01-14 14:57:03,846 DEBUG __main__ - Updated ETHUSDT with 60 closed candles; last close_time=1768382819999
+2026-01-14 14:57:03,846 DEBUG __main__ - State ETHUSDT: close=3331.9900 ema50=3330.2378 st=3329.4530 dir=-1 atr=1.2455
+2026-01-14 14:57:03,847 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for ETHUSDT
+2026-01-14 14:57:34,059 DEBUG __main__ - Updated BTCUSDT with 60 closed candles; last close_time=1768382819999
+2026-01-14 14:57:34,060 DEBUG __main__ - State BTCUSDT: close=95132.4000 ema50=95022.8384 st=94735.9693 dir=-1 atr=46.7780
+2026-01-14 14:57:34,062 DEBUG src.strategy.router - Strategy Breakout_Retest no signal for BTCUSDT
+2026-01-14 14:57:34,063 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for BTCUSDT
+2026-01-14 14:57:34,211 DEBUG __main__ - Updated ETHUSDT with 60 closed candles; last close_time=1768382819999
+2026-01-14 14:57:34,211 DEBUG __main__ - State ETHUSDT: close=3331.9900 ema50=3330.2378 st=3329.4530 dir=-1 atr=1.2455
+2026-01-14 14:57:34,213 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for ETHUSDT
+2026-01-14 14:58:04,399 DEBUG __main__ - Updated BTCUSDT with 60 closed candles; last close_time=1768382879999
+2026-01-14 14:58:04,399 DEBUG __main__ - State BTCUSDT: close=95057.3000 ema50=95024.1899 st=94735.9693 dir=-1 atr=52.2502
+2026-01-14 14:58:04,401 DEBUG src.strategy.router - Strategy Breakout_Retest no signal for BTCUSDT
+2026-01-14 14:58:04,402 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for BTCUSDT
+2026-01-14 14:58:04,550 DEBUG __main__ - Updated ETHUSDT with 60 closed candles; last close_time=1768382819999
+2026-01-14 14:58:04,551 DEBUG __main__ - State ETHUSDT: close=3331.9900 ema50=3330.2378 st=3329.4530 dir=-1 atr=1.2455
+2026-01-14 14:58:04,553 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for ETHUSDT
+2026-01-14 14:58:34,748 DEBUG __main__ - Updated BTCUSDT with 60 closed candles; last close_time=1768382879999
+2026-01-14 14:58:34,749 DEBUG __main__ - State BTCUSDT: close=95057.3000 ema50=95024.1899 st=94735.9693 dir=-1 atr=52.2502
+2026-01-14 14:58:34,750 DEBUG src.strategy.router - Strategy Breakout_Retest no signal for BTCUSDT
+2026-01-14 14:58:34,750 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for BTCUSDT
+2026-01-14 14:58:34,890 DEBUG __main__ - Updated ETHUSDT with 60 closed candles; last close_time=1768382879999
+2026-01-14 14:58:34,891 DEBUG __main__ - State ETHUSDT: close=3331.7200 ema50=3330.2959 st=3329.4530 dir=-1 atr=1.2479
+2026-01-14 14:58:34,893 DEBUG src.strategy.router - Strategy ST_EMA50_Cross no signal for ETHUSDT
